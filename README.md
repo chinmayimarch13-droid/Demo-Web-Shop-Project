@@ -73,7 +73,6 @@ Or using pytest:
 
 ```bash
 pytest
-
 ## Sample Automation Flow
 
 1. Open Demo Web Shop
