@@ -1,0 +1,8 @@
+from selenium import webdriver
+from slenium.webdriver.common.by importBy
+import time()
+driver = webdriver.Chrome()
+driver.get("https://demowebshop.tricentis.com/")
+driver.find_eliment(By.ID, "log in").click()
+time.sleep(5)
+driver.quit()
